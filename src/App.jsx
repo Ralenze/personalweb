@@ -36,6 +36,9 @@ function App() {
               <PageButton>
         blog
       </PageButton>
+      <PageButton>
+        contact
+      </PageButton>
       </div>
       </div>
       
