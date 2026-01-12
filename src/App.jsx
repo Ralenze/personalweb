@@ -30,13 +30,13 @@ function App() {
         <PageButton route="/about">
         about
       </PageButton>
-              <PageButton>
+              <PageButton route="/experience">
         experience
       </PageButton>
-              <PageButton>
+              <PageButton route="/blog">
         blog
       </PageButton>
-      <PageButton>
+      <PageButton route="/contact">
         contact
       </PageButton>
       </div>

@@ -1,6 +1,7 @@
 import '../index.css';
 import PageButton from '../components/pagebutton.jsx'
 import TextBox from '../components/textbox.jsx'
+import ReturnButton from '../components/returnbutton.jsx';
 import { ABOUTME } from '../texts/aboutme.js';
 function AboutPage() {
 
@@ -9,9 +10,7 @@ return(
     <>
     <div className="bg-black h-screen w-screen flex flex-col place-items-center">
         <div className="h-2/5 w-full place-items-center flex place-items-end justify-center my-4">
-        <PageButton className="hidden absolute top-0 left-0 border-none">
-            return
-        </PageButton>
+       <ReturnButton/>
     <PageButton>
         about
     </PageButton>
@@ -29,7 +28,7 @@ return(
              
     <span
       key={i}
-      className={part.style} // fix this
+      className={part.colour? "text-" + part.colour + "-500" : ""} // fix this
     >
       {part.text}
     </span>
