@@ -2,9 +2,9 @@
 import '../index.css';
 import githubIcon from '../assets/github-mark.svg'
 const statusColor = {
-  planned: "bg-gray-50",
-  "in-progress": "bg-yellow-500",
-  completed: "bg-green-500",
+  planned: "rounded-none border-b text-text hover:text-blue-500",
+  "in-progress": "rounded-none border duration-150 text-text hover:text-blue-500",
+  completed: " rounded-none border text-text hover:text-blue-500",
 };
 
 export default function ProjectCard({ project }) {
