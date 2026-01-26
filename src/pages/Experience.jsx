@@ -17,7 +17,8 @@ import ProjectCard from "../components/projectcard.jsx";
   return (
     <>
     <ReturnButton/>
-    <div className="min-h-screen min-w-screen bg-black px-6 py-16">
+    <div className="h-screen flex flex-col min-w-screen bg-black px-6 pt-16 lg:py-16">
+    <div className=" bg-black z-40 border-b border-white/25">
 
       <h1 className="text-3xl text-center font-mono text-white mb-8">
         Projects
@@ -40,13 +41,15 @@ import ProjectCard from "../components/projectcard.jsx";
           </button>
         ))}
       </div>
-
+    </div>
       {/* Grid */}
-      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 font-mono">
+      <div className="flex-1 overflow-y-auto no-scrollbar">
+      <div className=" grid gap-6 md:grid-cols-2 lg:grid-cols-3 font-mono overflow-y-auto flex-1">
         {filteredProjects.map((project) => (
           <ProjectCard key={project.id} project={project} />
         ))}
       </div>
+    </div>
     </div>
     </>
   );

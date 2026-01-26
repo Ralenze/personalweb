@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
 @import "tailwindcss";
-
+@plugin "@tailwindcss/typography";
 @theme {
   --font-geist: 'Geist', sans-serif;
   --color-text: #f2e9e5;
@@ -8,4 +8,17 @@
   --color-primary: #cdae9d;
   --color-secondary: #3b6e75;
   --color-accent: #756db5;
+}
+
+@layer utilities {
+  .no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;             /* Chrome, Safari */
+  }
+}
+.markdown > * {
+  all: revert;
 }

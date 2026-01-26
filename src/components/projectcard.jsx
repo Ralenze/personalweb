@@ -2,21 +2,21 @@
 import '../index.css';
 import githubIcon from '../assets/github-mark.svg'
 const statusColor = {
-  planned: "rounded-none border-b text-text hover:text-blue-500",
-  "in-progress": "rounded-none border duration-150 text-text hover:text-blue-500",
-  completed: " rounded-none border text-text hover:text-blue-500",
+  planned: "rounded-none border-b md:border text-text hover:text-blue-500 px-4",
+  "ongoing": "rounded-none border-b md:border duration-150 text-text mx-4 hover:text-blue-500",
+  completed: " rounded-none border-b md:border text-text mx-4 hover:text-blue-500",
 };
 
 export default function ProjectCard({ project }) {
   return (
-    <div className=" border-b border-white/25 bg-black p-5 shadow-md hover:shadow-xl transition">
+    <div className=" border-b border-white/25 hover:bg-neutral-900 duration-150 bg-black p-5 shadow-md hover:shadow-xl transition">
       {/* Header */}
-      <div className="flex items-center justify-between mb-3">
-        <h3 className="text-lg font-semibold text-white">
+      <div className="flex items-center justify-between mb-3  text-blue-100 hover:text-blue-500">
+        <h3 className="text-lg font-semibold ">
           {project.title}
         </h3>
         <span
-          className={`text-xs px-2 py-1 rounded-full text-black ${
+          className={`text-xs px-2 py-1 rounded-full ${
             statusColor[project.status]
           }`}
         >
@@ -34,7 +34,7 @@ export default function ProjectCard({ project }) {
         {project.tech.map((t) => (
           <span
             key={t}
-            className="text-xs px-2 py-1 rounded bg-white/10 text-white/80"
+            className="text-xs px-2 py-1 rounded bg-neutral-900 text-white/60"
           >
             {t}
           </span>
@@ -44,14 +44,17 @@ export default function ProjectCard({ project }) {
       {/* Links */}
       <div className="flex gap-3 text-sm">
         {project.links?.github && (
+            <a
+            href={project.links.github}
+            target="_blank">
           <img
           src={githubIcon}
-            href={project.links.github}
-            target="_blank"
-            className="text-blue-400 hover:cursor-pointer h-8 w/8"
+           
+            className="  hover:cursor-pointer h-8 w-8"
           >
         
             </img>
+            </a>
         )}
         {project.links?.demo && (
           <a
