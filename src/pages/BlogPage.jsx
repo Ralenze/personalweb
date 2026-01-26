@@ -14,7 +14,7 @@ function BlogPage() {
   return (
     <div className="min-h-screen w-screen bg-black">
         <ReturnButton/>
-    <div className="h-full w-full prose prose-invert mx-auto py-16 lg:py-32 place-items-center  font-mono">
+    <div className="h-full w-3/5 prose prose-invert mx-auto py-16 lg:py-32 place-items-center font-mono">
       <h1>{post.title}</h1>
       <ReactMarkdown remarkPlugins={[remarkGfm]}>
         {post.content}

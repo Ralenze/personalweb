@@ -8,11 +8,16 @@ readingTime: 4 mins
 
 ## Why I wrote this
 
-Some intro text.
+I've been wanting to type some stuff here for some while. There's been so so so much to say
+The hardest part of building this website was having the motivation and discipline to build it.
+
+> Gimme dat World
+
+- Socrates
 
 ## What I learned
 
-More content.
+Ohh its such a bisssh
 
 ## Final thoughts
 

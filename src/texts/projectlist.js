@@ -7,9 +7,8 @@ export const ProjectStatus = {
 export const projects = [
   {
     id: "autonomous-landing",
-    title: "Autonomous UAV Landing System",
-    shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization.",
+    title: "Landing Model",
+    shortDescription: "Vision-based autonomous landing using YOLOv11",
     status: ProjectStatus.IN_PROGRESS,
     startDate: "2024-05",
     tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
@@ -17,104 +16,47 @@ export const projects = [
     featured: true,
     links: {
       github: "https://github.com/you/uav-landing",
+    },
+  },
+  {
+    id: "code-royale",
+    title: "Code Royale",
+    shortDescription:
+      "A multiplayer coding battle game where players solve challenges in real-time. Hackathon project.",
+    status: ProjectStatus.COMPLETED,
+    startDate: "2025-10",
+    endDate: "2025-10",
+    tech: ["React", "Convex", "Node.js", "AI"],
+    tags: ["frontend", "backend", "AI"],
+    links: {
+      github: "https://github.com/Epicslooyer/Stormhacks",
     },
   },
   {
     id: "portfolio-site",
-    title: "Personal Portfolio Website",
-    shortDescription:
-      "A performant portfolio with filtering, responsive design, and clean UI.",
-    status: ProjectStatus.COMPLETED,
-    startDate: "2024-01",
-    endDate: "2024-02",
-    tech: ["React", "Tailwind"],
-    tags: ["frontend"],
+    title: "Personal Website",
+    shortDescription: "My own website!! ",
+    status: ProjectStatus.IN_PROGRESS,
+    startDate: "2026-01",
+    endDate: "2026-01",
+    tech: ["React", "Convex", "Node.js", "AI"],
+    tags: ["frontend", "backend", "AI"],
     links: {
-      demo: "https://yourdomain.com",
+      github: "https://github.com/Ralenze/personalweb",
     },
   },
   {
-    id: "test3",
-    title: "Autonomous UAV Landing System",
+    id: "grantify",
+    title: "Grantify",
     shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization. This one happens to have a shit ton of words. Let me add even more just to make it clear",
+      "Thousands of Canadian scholarships with personalized recommendations through AI. ",
     status: ProjectStatus.IN_PROGRESS,
-    startDate: "2024-05",
-    tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
-    tags: ["robotics", "cv", "ml"],
-    featured: true,
+    startDate: "2026-01",
+    endDate: "2026-03",
+    tech: ["React", "Firebase", "Node.js", "OpenRouter"],
+    tags: ["frontend", "backend", "AI"],
     links: {
-      github: "https://github.com/you/uav-landing",
-    },
-  },
-  {
-    id: "4",
-    title: "Autonomous UAV Landing System",
-    shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization. This one happens to have a shit ton of words. Let me add even more just to make it clear.... ",
-    status: ProjectStatus.IN_PROGRESS,
-    startDate: "2024-05",
-    tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
-    tags: ["robotics", "cv", "ml"],
-    featured: true,
-    links: {
-      github: "https://github.com/you/uav-landing",
-    },
-  },
-  {
-    id: "5",
-    title: "Autonomous UAV Landing System",
-    shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization. This one happens to have a shit ton of words. Let me add even more just to make it clear.... ",
-    status: ProjectStatus.IN_PROGRESS,
-    startDate: "2024-05",
-    tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
-    tags: ["robotics", "cv", "ml"],
-    featured: true,
-    links: {
-      github: "https://github.com/you/uav-landing",
-    },
-  },
-  {
-    id: "6",
-    title: "Autonomous UAV Landing System",
-    shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization. This one happens to have a shit ton of words. Let me add even more just to make it clear.... ",
-    status: ProjectStatus.IN_PROGRESS,
-    startDate: "2024-05",
-    tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
-    tags: ["robotics", "cv", "ml"],
-    featured: true,
-    links: {
-      github: "https://github.com/you/uav-landing",
-    },
-  },
-  {
-    id: "7",
-    title: "Autonomous UAV Landing System",
-    shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization. This one happens to have a shit ton of words. Let me add even more just to make it clear.... ",
-    status: ProjectStatus.IN_PROGRESS,
-    startDate: "2024-05",
-    tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
-    tags: ["robotics", "cv", "ml"],
-    featured: true,
-    links: {
-      github: "https://github.com/you/uav-landing",
-    },
-  },
-  {
-    id: "8",
-    title: "Autonomous UAV Landing System",
-    shortDescription:
-      "Vision-based autonomous landing using YOLOv8 and IR emitter localization. This one happens to have a shit ton of words. Let me add even more just to make it clear.... ",
-    status: ProjectStatus.IN_PROGRESS,
-    startDate: "2024-05",
-    tech: ["Python", "YOLOv8", "OpenCV", "ROS"],
-    tags: ["robotics", "cv", "ml"],
-    featured: true,
-    links: {
-      github: "https://github.com/you/uav-landing",
+      github: "https://github.com/joshrtust/Grantify",
     },
   },
 ];
