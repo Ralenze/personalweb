@@ -19,6 +19,16 @@ const router = createBrowserRouter([
 ])
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <div
+  className="
+    min-h-[100dvh]
+    w-full
+    overflow-x-hidden
+    pt-[env(safe-area-inset-top)]
+    pb-[env(safe-area-inset-bottom)]
+  "
+>
     <RouterProvider router={router}/>
+    </div>
   </StrictMode>,
 )
