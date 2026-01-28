@@ -14,7 +14,7 @@ const colorMap = {
 return(
 
     <>
-    <div className="bg-black h-screen w-screen flex flex-col items-center">
+    <div className="bg-black min-h-screen min-h-[100svh]  w-screen flex flex-col items-center">
         <div className="h-2/5 w-full flex items-center justify-center my-4">
        <ReturnButton/>
     <PageButton>

@@ -14,7 +14,7 @@ import {blogPosts} from '../texts/blogPosts'
 
 
   return (
-    <div className="min-h-screen w-screen bg-black py-16 px-8">
+    <div className="min-h-screen min-h-[100svh]  w-screen bg-black py-16 px-8">
         <ReturnButton/>
           <h1 className="text-3xl text-center font-mono text-white mb-8">
         Latest

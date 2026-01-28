@@ -17,7 +17,7 @@ function Contact() {const colorMap = {
 return(
 
     <>
-    <div className="bg-black h-screen w-screen flex flex-col items-center">
+    <div className="bg-black min-h-screen min-h-[100svh] w-screen flex flex-col items-center">
         <div className="h-1/5 w-full items-center flex justify-center my-4">
        <ReturnButton/>
     <PageButton>

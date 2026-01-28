@@ -12,7 +12,7 @@ function BlogPage() {
   if (!post) return <h1>404</h1>;
 
   return (
-    <div className="min-h-screen w-screen bg-black">
+    <div className="min-h-screen min-h-[100svh]  w-screen bg-black">
         <ReturnButton/>
     <div className="h-full w-3/5 prose prose-invert mx-auto py-16 lg:py-32 place-items-center font-mono">
       <h1>{post.title}</h1>

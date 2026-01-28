@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-black h-screen w-screen flex flex-col lg:flex-row items-center" >
+      <div className="bg-black min-h-screen min-h-[100svh]  w-screen flex flex-col lg:flex-row items-center" >
         <div className="h-1/2 w-full lg:w-1/2 lg:flex relative lg:flex-col flex flex-col justify-end items-center ">
 
         <ProfileIcon img={meimage}/>

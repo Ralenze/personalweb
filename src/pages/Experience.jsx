@@ -17,7 +17,7 @@ import ProjectCard from "../components/projectcard.jsx";
   return (
     <>
     <ReturnButton/>
-    <div className="h-screen flex flex-col min-w-screen bg-black px-6 pt-16 lg:py-16">
+    <div className="min-h-screen min-h-[100svh]  flex flex-col min-w-screen bg-black px-6 pt-16 lg:py-16">
     <div className=" bg-black z-40 border-b border-white/25">
 
       <h1 className="text-3xl text-center font-mono text-white mb-8">
