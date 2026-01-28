@@ -17,14 +17,14 @@ function Contact() {const colorMap = {
 return(
 
     <>
-    <div className="bg-black h-screen w-screen flex flex-col place-items-center">
-        <div className="h-1/5 w-full place-items-center flex place-items-end justify-center my-4">
+    <div className="bg-black h-screen w-screen flex flex-col items-center">
+        <div className="h-1/5 w-full items-center flex justify-center my-4">
        <ReturnButton/>
     <PageButton>
         contact
     </PageButton>
 </div>
-<div className="h-3/4 place-items-center">
+<div className="h-3/4 flex items-center justify-center">
     <TextBox>
           {contactMe.contact.title.map((part, i) => (
             part.style == "linebreak" ? 
