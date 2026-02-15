@@ -8,13 +8,15 @@ import Blog from './pages/Blog.jsx';
 import Contact from './pages/Contact.jsx';
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import BlogPage from './pages/BlogPage.jsx'
+import Pilu from './pages/Pilu.jsx';
 const router = createBrowserRouter([
   {path: '/', element: <App/>},
   {path: '/about', element: <AboutPage/>},
   {path: '/experience', element: <Experience/>},
   {path: '/blog', element: <Blog/>},
   {path: '/contact', element: <Contact/>},
-  {path: '/blog/:slug', element: <BlogPage />}
+  {path: '/blog/:slug', element: <BlogPage />},
+  {path:'/pilu', element: <Pilu />}
 
 ])
 createRoot(document.getElementById('root')).render(
