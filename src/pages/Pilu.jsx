@@ -87,7 +87,7 @@ function Pilu() {
           </br>
           <p>
             I don't know if you will see this. Real love isn't always loud, and similarly, I'm not going to text you
-            that I updated this page. Think of it as a journal, I guess. Each day this week I'll quietly write down words that I'm aching to 
+            that I updated this page. Think of it as a journal, I guess. I'll just quietly write down words that I'm aching to 
             text you. Each moment I can't talk to you I miss you dearly. That's all I wanted to say, and I 
             hope you feel this way about me too. 
           </p>
