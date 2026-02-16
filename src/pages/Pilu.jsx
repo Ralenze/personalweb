@@ -71,6 +71,26 @@ function Pilu() {
             </br>
           <img
           src={love}/>
+
+
+          <br>
+          </br>
+          <p>
+            I don't know if youre checking this today, or in another day. But I just wanted to really tell you that I love you so much. I wish I could send those reels, say those words to you right now. I know I can't, and neither can you. But when you feel down, 
+            or sad, please remember that I truly am grateful for you, 
+            and I will always be there for you if you let me. 
+            I chose you and I'm not choosing anyone else.
+             Pilu, I love you.
+          </p>
+
+          <br>
+          </br>
+          <p>
+            I don't know if you will see this. Real love isn't always loud, and similarly, I'm not going to text you
+            that I updated this page. Think of it as a journal, I guess. Each day this week I'll quietly write down words that I'm aching to 
+            text you. Each moment I can't talk to you I miss you dearly. That's all I wanted to say, and I 
+            hope you feel this way about me too. 
+          </p>
         </div>
 
       </div>
