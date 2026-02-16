@@ -76,7 +76,7 @@ function Pilu() {
           <br>
           </br>
           <p>
-            I don't know if youre checking this today, or in another day. But I just wanted to really tell you that I love you so much. I wish I could send those reels, say those words to you right now. I know I can't, and neither can you. But when you feel down, 
+            Gosh its sunday and I wish I could text u this... but I just wanted to really tell you that I love you so much. I wish I could send those reels, say those words to you right now. I know I can't, and neither can you. But when you feel down, 
             or sad, please remember that I truly am grateful for you, 
             and I will always be there for you if you let me. 
             I chose you and I'm not choosing anyone else.
