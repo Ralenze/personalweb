@@ -91,6 +91,14 @@ function Pilu() {
             text you. Each moment I can't talk to you I miss you dearly. That's all I wanted to say, and I 
             hope you feel this way about me too. 
           </p>
+
+          <br>
+          </br>
+
+          <p>
+            Wow, now its Tuesday.. damn. on this flight right now (wish you were next to me). had this chocolate milkshake (we could've drank it together). anyway how are you doing? (i miss you). hows the toothache (i wish i could comfort you).
+            did you eat properly (wish i could make you food)? did you sleep well (wish i was cuddling you)? that mustve been a sad movie (wish i could wipe ur tears). but anyway, my flights landing soon (where are you). ill talk to you soon (i miss your voice)! take care (i love you).
+            </p>
         </div>
 
       </div>
