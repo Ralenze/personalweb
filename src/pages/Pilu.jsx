@@ -96,9 +96,35 @@ function Pilu() {
           </br>
 
           <p>
-            Wow, now its Tuesday.. damn. on this flight right now (wish you were next to me). had this chocolate milkshake (we could've drank it together). anyway how are you doing? (i miss you). hows the toothache (i wish i could comfort you).
-            did you eat properly (wish i could make you food)? did you sleep well (wish i was cuddling you)? that mustve been a really emotional movie (wish i could wipe ur tears). i hope you enjoy the dinner after (can we eat together). but anyway, my flights landing soon (where are you). ill talk to you soon (i miss your voice)! take care (i love you).
+            Wow, now its Tuesday.. damn. on this flight right now (wish you were next to me). had this chocolate milkshake (we could've drank it together). 
+            anyway how are you doing? (i miss you). hows the toothache (i wish i could comfort you).
+            did you eat properly (wish i could make you food)? did you sleep well 
+            (wish i was cuddling you)? that mustve been a really emotional movie
+             (wish i could wipe ur tears). i hope you enjoy the dinner after
+              (can we eat together). but anyway, my flights landing soon (where are you). 
+              ill talk to you soon (i miss your voice)! take care (i love you).
             </p>
+
+          <br>
+          </br>
+          <p>
+            pilu, i love you a lot even though i know youre asleep right now. 11:55pm here in lv, 3 o clock where youre at. 
+            i hope you get a good nights sleep and that the weather gets better soon so that you can check
+            the dentist tomorrow. im sorry to hear that it hasnt gotten better. hopefully you can meet
+          up with your friends too if the weather permits. theres just a few more days left until we can meet again.
+          </p>
+
+          <br>
+          </br>
+          <p>
+            today was crazy in terms of the lore and the entire tow and canyon thing. they were about to tow our car and already placed the hook, but we managed throw new Error("
+            get them off our backs. ill tell you everything in our call, hopefully within next two days but definitely on sat otherwise.
+          </p>
+          <p>
+            anyway
+          missing you a lot like you dont imagine. anyway. im always yours dear, and ill always be yours. good night and i hope to see and travel the world with you soon. i love you.
+
+          </p>
         </div>
 
       </div>
