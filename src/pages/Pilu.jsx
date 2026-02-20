@@ -125,6 +125,16 @@ function Pilu() {
           missing you a lot like you dont imagine. anyway. im always yours dear, and ill always be yours. good night and i hope to see and travel the world with you soon. i love you.
 
           </p>
+
+          <br>
+          </br>
+          <p>
+           I wonder how you are doing right now... we were walking down this mall and my amma said she liked Jimmy Choo branded stuffl
+              It got me thinking about the perfume we got for your mom. Did she end up liking them?
+              Also, how is everything? I hope tomorrow you get your teeth checked and everything gets well. And I hope you do a good job with the midterm
+              prep. I felt like something was bothering you today but I didn't know. I just want to let you know I'm always here for you okay? Youre in many ways
+              my biggest hope and greatest gift in life, and I want you to know that. I'll talk to you soon and I love you. My soulmate. 
+          </p>
         </div>
 
       </div>
