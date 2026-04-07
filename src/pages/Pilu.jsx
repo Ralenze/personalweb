@@ -135,7 +135,17 @@ function Pilu() {
               prep. I felt like something was bothering you today but I didn't know. I just want to let you know I'm always here for you okay? Youre in many ways
               my biggest hope and greatest gift in life, and I want you to know that. I'll talk to you soon and I love you. My soulmate. 
           </p>
+
+          <p>
+            Look how fast time flies. I kind of just wanted to write down everything I feel. I first of all really want to apologize for everything. I'm really sorry about my actions, watching
+              those clips, I know I really really hurt you. It was wrong for me to do that to look at others like that. I want you to know that you are more than enough and this had nothing to do with you, but rather with me and my previous patterns. 
+              Along with that, I want to admit fault for assuming a lot of stuff in the past, and I am really seeking to rectify this side of me. I promise to be a lot more understanding and communicate and ask for clarification before jumping to conclusions.
+               I really want to spend my life with you. I hope you still feel that way and you don't think worse of me. I'm afraid you're going to push me away. 
+              I'm so sorry. I love you and I'm always going to choose you and fight for you. I promise you this, and I promise to become better person. I genuinely mean it. And I genuinely love you, always have, and always will.
+              
+          </p>
         </div>
+
 
       </div>
         </div>
