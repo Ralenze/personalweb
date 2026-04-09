@@ -21,120 +21,7 @@ function Pilu() {
           </p>
           <br>
           </br>
-          <p>
-            and I love you always and I genuinely wish it is us always. 
-            When you complain about your hair being a mess, it looks perfect and 
-            stylish to me. When you worry about your hands being wet and sweaty, 
-            I just want to hold them and feel the warmth, like a hot damp towel surrounding my hands. 
-            When you feel insecure about being tall or your body, I just want to hold you tight and tell 
-            you that you look absolutely perfect to me. And when you feel that you are too worring, 
-            too stressed, I want to be there for you and ease your pain. I will always be yours, and I am always
-            for you through the good, but also the bad.
-
-          </p>
-          <br></br>
-          <p>
-            oh I adore everything about you. the little birthmark next to your eye. your white nails. 
-            your cute laugh, as cute as a hyena-seagull hybrid can be. your smile when you tilt your head
-             and look at me with those squinted eyes. 
-          </p>
-          <br>
-          </br>
-          <p>
-            and all those plans we made, we will tick them off one by one. parties in LA. vacations to paris. 
-            snowboarding at kananaski. camp trips at yellowstone, hiking through yosemite. cruise trips around the 
-            caribbean. late nights on cobblestone roads in europe. dogsledding in yukon. we will go everywhere and do
-            everything together and try everything, i promise you that much.
-          </p>
-          <p>
-            Let this valentines and anniversary be a reminder of how far we've both come, and how far we
-             are both willing to work for each other. We will always communicate with each other when 
-             something is troubling us, no matter how painful. Those pillars of relationship that we agreed
-             on, effort, communication, honesty, loyalty, comfort, is why we have and will always make it 
-             through long distance, through hardships, through everything. Our signs are perfectly aligned.
-             You are the 2 to my 4, the Aries to my Gemini, the 18 to my 9 that make us 27. I could not have
-             spent these 7 months with another person, and I will not spend my future months with anyone else but you.
-             You are my future.
-
-
-
-          </p>
-
-
-          <br>
-          </br>
-          <p>
-
-            I love you.
-          </p>
-            <br>
-            </br>
-          <img
-          src={love}/>
-
-
-          <br>
-          </br>
-          <p>
-            Gosh its sunday and I wish I could text u this... but I just wanted to really tell you that I love you so much. I wish I could send those reels, say those words to you right now. I know I can't, and neither can you. But when you feel down, 
-            or sad, please remember that I truly am grateful for you, 
-            and I will always be there for you if you let me. 
-            I chose you and I'm not choosing anyone else.
-             Pilu, I love you.
-          </p>
-
-          <br>
-          </br>
-          <p>
-            I don't know if you will see this. Real love isn't always loud, and similarly, I'm not going to text you
-            that I updated this page. Think of it as a journal, I guess. I'll just quietly write down words that I'm aching to 
-            text you. Each moment I can't talk to you I miss you dearly. That's all I wanted to say, and I 
-            hope you feel this way about me too. 
-          </p>
-
-          <br>
-          </br>
-
-          <p>
-            Wow, now its Tuesday.. damn. on this flight right now (wish you were next to me). had this chocolate milkshake (we could've drank it together). 
-            anyway how are you doing? (i miss you). hows the toothache (i wish i could comfort you).
-            did you eat properly (wish i could make you food)? did you sleep well 
-            (wish i was cuddling you)? that mustve been a really emotional movie
-             (wish i could wipe ur tears). i hope you enjoy the dinner after
-              (can we eat together). but anyway, my flights landing soon (where are you). 
-              ill talk to you soon (i miss your voice)! take care (i love you).
-            </p>
-
-          <br>
-          </br>
-          <p>
-            pilu, i love you a lot even though i know youre asleep right now. 11:55pm here in lv, 3 o clock where youre at. 
-            i hope you get a good nights sleep and that the weather gets better soon so that you can check
-            the dentist tomorrow. im sorry to hear that it hasnt gotten better. hopefully you can meet
-          up with your friends too if the weather permits. theres just a few more days left until we can meet again.
-          </p>
-
-          <br>
-          </br>
-          <p>
-            today was crazy in terms of the lore and the entire tow and canyon thing. they were about to tow our car and already placed the hook, but we managed throw new Error("
-            get them off our backs. ill tell you everything in our call, hopefully within next two days but definitely on sat otherwise.
-          </p>
-          <p>
-            anyway
-          missing you a lot like you dont imagine. anyway. im always yours dear, and ill always be yours. good night and i hope to see and travel the world with you soon. i love you.
-
-          </p>
-
-          <br>
-          </br>
-          <p>
-           I wonder how you are doing right now... we were walking down this mall and my amma said she liked Jimmy Choo branded stuffl
-              It got me thinking about the perfume we got for your mom. Did she end up liking them?
-              Also, how is everything? I hope tomorrow you get your teeth checked and everything gets well. And I hope you do a good job with the midterm
-              prep. I felt like something was bothering you today but I didn't know. I just want to let you know I'm always here for you okay? Youre in many ways
-              my biggest hope and greatest gift in life, and I want you to know that. I'll talk to you soon and I love you. My soulmate. 
-          </p>
+          
 
           <p>
             Look how fast time flies. I kind of just wanted to write down everything I feel. I first of all really want to apologize for everything. I'm really sorry about my actions, watching
@@ -148,6 +35,29 @@ function Pilu() {
           <p>
 
 If you need space, anything, please just let me know. I will wait for you. Always. 
+          </p>
+
+          <br>
+          </br>
+
+          <p>
+            It's been a while since we've last met. I just want to say, good luck for your finals 
+            and I hope you finish that report by tomorrow! I miss you a lot and every other minute 
+            I'm thinking to text you. I know we must hold back until our exams are done, but do you
+             feel this way for me too? Do you feel your heart burn the way I do when I'm not with 
+             you? Or the way my hand shakes with tremors, when we're far apart? Like an addict without his drug?
+              I love you, and there are so many words I'm afraid to say cause I fear you won't feel the same way.
+              </p>
+              <br>
+              </br>
+              <p>
+            I love you, and I hope you will love me tomorrow the way you did yesterday.
+
+          </p>
+          <br>
+          </br>
+          <p>
+            I love you.
           </p>
         </div>
 
